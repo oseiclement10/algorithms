@@ -56,7 +56,7 @@ const setupNodes = (numArr: number[]): ListNode => {
 }
 
 const logList = (list: ListNode | null) => {
-    const listLog = [];
+    const listLog: number[] = [];
 
     while (list) {
         listLog.push(list.val);
@@ -64,8 +64,8 @@ const logList = (list: ListNode | null) => {
     }
 
     console.log(listLog.join(" --> "));
-    return;
+    // return listLog.join("-->");
 }
 
 
-logList(addTwoNumbers(testNumOne,testNumTwo));
+logList(addTwoNumbers(testNumOne, testNumTwo));
