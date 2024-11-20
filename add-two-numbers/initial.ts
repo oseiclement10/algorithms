@@ -7,14 +7,14 @@
 // const testNumOne = [5, 6, 5];
 // const testNumTwo = [4, 3, 4];
 
-const testNumOne = [2, 4, 3];
-const testNumTwo = [5, 6, 4];
+// const testNumOne = [2, 4, 3];
+// const testNumTwo = [5, 6, 4];
 
 // const testNumOne = [0];
 // const testNumTwo = [0];
 
-// const testNumOne = [9, 9, 9, 9, 9, 9, 9];
-// const testNumTwo = [9, 9, 9, 9];
+const testNumOne = [9, 9, 9, 9, 9, 9, 9];
+const testNumTwo = [9, 9, 9, 9];
 
 
 
